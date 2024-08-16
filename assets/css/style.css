@@ -1,0 +1,575 @@
+.nav-bar a {
+    color: black;
+}
+
+.events {
+    color: #2C49FE;
+}
+
+.free {
+    color: #01C8FF;
+}
+
+.line-1 {
+    width: 100%;
+    height: 0px;
+    border: 1px solid#CCCCCC;
+    margin-top: 20px;
+}
+
+.counting {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+    margin-top: 2px;
+    width: 16px;
+    height: 24px;
+}
+
+.header-links {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin: 0;
+}
+
+header {
+    box-shadow: 0px 8px 35px 0px #0000000D;
+    background-color: white;
+}
+
+
+.date {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+    align-items: center;
+    display: flex;
+    width: 88px;
+    height: 24px;
+    margin-top: 3px;
+}
+
+.hero-page-img {
+    max-width: 401px;
+    width: 100%;
+    border-radius: 30px;
+
+
+}
+
+.position-relative {
+    position: relative;
+}
+
+.post-comment-button {
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    right: 10px;
+    color: white;
+    top: 9px;
+    padding: 11px 28px 11px 28px;
+    background-color: #2C49FE;
+}
+
+.profile-photo {
+    max-width: 80px;
+    height: 80px;
+    width: 100%;
+}
+
+.comment-page-profile-photo {
+    position: absolute;
+    cursor: pointer;
+    left: 9px;
+    top: 8px;
+}
+
+.comment-box {
+    max-width: 1319px;
+    width: 100%;
+    height: 70px;
+    border-radius: 35px;
+    border: 1px solid #9CA1BE;
+    padding: 10px;
+    padding-left: 80px;
+    color: #666666;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.box {
+    width: 100%;
+    background-color: #F1F1F5;
+    height: 100%;
+    padding: 14px;
+    border-radius: 0px 20px 20px 20px;
+}
+
+.username {
+    font-family: var(--poppins);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #000000;
+}
+
+.post-event {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+}
+
+.remove-btn {
+    color: #666666;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.section-4 {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+    padding: 0;
+}
+
+.bg-color {
+    background: black;
+}
+
+.section-4 li {
+    font-family: var(--poppins);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    width: 36px;
+    height: 28px;
+    text-align: left;
+}
+
+/* ---------------------------------para classes----------------------------------------------- */
+.para {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: #666666;
+}
+
+
+.para-1 {
+    color: #666666;
+}
+
+.para-2 {
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    max-width: 553px;
+    width: 100%;
+    color: #666666;
+}
+
+.para-3 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #606062;
+    max-width: 1199px;
+    width: 100%;
+    height: 100%;
+}
+
+.para-6 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: white;
+    width: 100%;
+    max-width: 346.18px;
+    height: 100%;
+
+}
+
+.para-bottom {
+    font-family: var(--poppins);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 10px;
+}
+
+.footer-head {
+    color: white;
+    font-family: var(--poppins);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: left;
+
+}
+
+.section-4 a {
+    color: white;
+
+}
+
+.head {
+    position: relative;
+    font-family: var(--poppins);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: left;
+    width: 248px;
+    height: 72px;
+}
+
+.head:after {
+    content: "";
+    position: absolute;
+    width: 166px;
+    height: 8px;
+    left: 0;
+    background-color: #2C49FE;
+}
+
+.head:before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 8px;
+    right: 61px;
+    background-color: #01C8FF;
+}
+
+
+.card-5 {
+    background-color: #18205C;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-more-button {
+    color: white;
+    font-family: var(--poppins);
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    width: 43.02px;
+    height: 36px;
+    margin: 0;
+}
+
+
+/* -----------------------------card classes----------------------------------------------------------- */
+.card-1 {
+    width: 100%;
+    height: 138px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 35px 0px #0000001A;
+    padding: 13px;
+}
+
+.box-1 {
+    width: 171px;
+    height: 138px;
+    border-radius: 20px;
+    background-color: #EAEDFF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.box-2 {
+    bottom: 11px;
+    right: 9px;
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.card-para-2 {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 37px;
+    text-align: center;
+    width: 61px;
+    height: 78px;
+    color: #5E5F66;
+}
+
+.more {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    width: 43px;
+    height: 24px;
+    font-family: var(--poppins);
+    color: #5E5F66;
+}
+
+.card-img-1 {
+    max-width: 114px;
+    height: 112px;
+    border-radius: 20px;
+}
+
+.card-2 {
+
+    width: 100%;
+    height: 138px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 35px 0px #0000001A;
+    padding: 13px;
+}
+
+.card-img-2 {
+    max-width: 102px;
+    height: 112px;
+    border-radius: 20px;
+}
+
+.card-para {
+    font-family: var(--poppins);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    max-width: 163px;
+    height: 55px;
+    width: 100%;
+    color: #666666;
+}
+
+.card-head {
+    color: #666666;
+    font-family: var(--poppins);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+}
+
+.card-3 {
+    max-width: 1319px;
+    width: 100%;
+    border-radius: 30px;
+    box-shadow: 0px 8px 35px 0px #0000001A;
+
+}
+
+.card-4 {
+    max-width: 1319px;
+    width: 100%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #00000033;
+
+}
+
+/* ----------------------------button---------------------------------------------- */
+.button-1 {
+    width: 118px;
+    height: 46px;
+    font-size: 16px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    background-color: #2C49FE;
+    padding: 11px 28px 11px 28px;
+    border-radius: 23px;
+}
+
+/* ---------------------------short classes------------------------------------------------- */
+.primary-color {
+    color: #666666;
+}
+
+.padding-top {
+    padding-top: 70px;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.gap-15 {
+    gap: 15px;
+}
+
+.mb-16 {
+    margin-bottom: 16px;
+}
+.pr-16{
+    padding-right: 16px;
+}
+
+.mt-8 {
+    margin-top: 8px;
+}
+
+.mt-24 {
+    margin-top: 24px;
+}
+
+.ml-77 {
+    margin-left: 77px;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
+/* ------------------------------------------------------------------- */
+
+.new-post-img-property {
+    border-radius: 20px;
+}
+
+
+.heading-1 {
+    font-family: var(--poppins);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    max-width: 561px;
+    width: 100%;
+}
+
+@media (max-width:992px) {
+    .header-links {
+        right: -100%;
+        background-image: url(../images/new-post-img-2.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        margin-top: 77px;
+        width: 100%;
+        height: 100%;
+        text-align: left;
+        gap: 0;
+        justify-content: center;
+        align-items: center;
+        z-index: 4;
+    }
+
+    .span {
+        width: 35px;
+        height: 3px;
+        margin-bottom: 5px;
+        background-color: black;
+        display: flex;
+
+    }
+
+    label {
+        margin-top: 20px;
+        float: right;
+    }
+
+    .check:checked~ul {
+        right: 0;
+        color: white;
+        transition: all 300ms linear;
+        display: flex;
+    }
+    .para-bottom {
+        font-family: var(--poppins);
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 21px;
+        color: white;
+        position: unset;
+        bottom: 0;
+        padding-bottom: 10px;
+    }
+
+}
+
+@media (min-width:320px) {}
+
+@media (min-width:768px) {}
+
+@media (max-width:576px) {
+    .card-1 {
+        width: 100%;
+        height: 138px;
+        border-radius: 20px;
+        box-shadow: 0px 8px 35px 0px #0000001A;
+        padding: 13px;
+        margin-bottom: 23px;
+    }
+
+    .card-2 {
+        margin-bottom: 32px;
+        width: 100%;
+        height: 138px;
+        border-radius: 20px;
+        box-shadow: 0px 8px 35px 0px #0000001A;
+        padding: 13px;
+    }
+
+    .post-comment-button {
+        position: unset;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 30px;
+        border-radius: 100px;
+        border: none;
+        cursor: pointer;
+        margin-top: 20px;
+        color: white;
+        padding: 11px 28px 11px 28px;
+        background-color: #2C49FE;
+    }
+}
